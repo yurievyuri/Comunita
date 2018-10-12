@@ -62,6 +62,10 @@
 @import url( 'https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&subset=cyrillic' );
 @import url( 'https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic' );
 
+/* Фирменный шрифт с засечками */
+/*@import url( '../webfontkit/stylesheet.css' );*/
+
+
 html {
     overflow-x: hidden;
 }
