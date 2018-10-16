@@ -3,3 +3,9 @@
   
   Your CSS goes here
 ----------------------------------------------------------------------------*/
+
+.widget.widget-about img.img-responsive	{
+
+	width: 60%;
+
+}
